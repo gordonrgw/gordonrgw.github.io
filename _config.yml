@@ -5,11 +5,11 @@ image_thumbs_loc: "/images/thumbs"
 google_analytics: ""
 
 # UI configs
-title: "Digital Gallery by Gordon"
+title: "Gallery"
 subtitle: "See the world through my eyes!"
 author: "gordon"
 header:
- title: "Digital Gallery"
+ title: "Gallery"
  subtitle: "by gordon"
 footer:
  name: "My name is gordon"
