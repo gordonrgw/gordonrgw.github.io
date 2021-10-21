@@ -1,21 +1,16 @@
 # Base configs
-baseurl: "https://gordonrgw.github.io"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: ""
 
 # UI configs
-title: "Gallery"
-subtitle: "See the world through my eyes!"
-author: "gordon"
+title: "Shots by "
+subtitle: "A chapter from my life"
+author:  ""
 header:
- title: "Gallery"
- subtitle: "by gordon"
+ title: "Shots"
+ subtitle: ""
 footer:
- name: "My name is gordon"
- bio: "Amateur camera wrangler, all images (c)" 
- github: ""
-web_design: "AJ"
+ name: "Hey there, I am Pushpinder Pal Singh "
+ bio: "a pre-final year computer engineering student at the Netaji Subhas University of Technology, New Delhi. I am an iOS developer with experience in creating apps in AR amongst other things. To me a photo says a thousand words and I like writing chapters of my life"
 social_urls:
-  instagram: "https://www.instagram.com/gordonw_str"
-  
+  instagram: "https://www.instagram.com/gordonw_str/"
