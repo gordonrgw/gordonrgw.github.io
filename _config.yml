@@ -3,14 +3,14 @@ image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
 
 # UI configs
-title: "Shots by "
-subtitle: "A chapter from my life"
-author:  ""
+title: "Gordon's Gallery "
+subtitle: "Random Photographs"
+author:  "gordon"
 header:
  title: "Shots"
  subtitle: ""
 footer:
- name: "Hey there, I am Pushpinder Pal Singh "
- bio: "a pre-final year computer engineering student at the Netaji Subhas University of Technology, New Delhi. I am an iOS developer with experience in creating apps in AR amongst other things. To me a photo says a thousand words and I like writing chapters of my life"
+ name: "Gordon"
+ bio: "Amateur camera-wrangler, all photographs (c)."
 social_urls:
   instagram: "https://www.instagram.com/gordonw_str/"
